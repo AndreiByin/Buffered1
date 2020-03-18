@@ -1,0 +1,6 @@
+package by.vit;
+public class Main {
+    public static void main(String[] args) {
+
+    }
+}
